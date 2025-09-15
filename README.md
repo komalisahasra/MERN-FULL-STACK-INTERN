@@ -1,4 +1,4 @@
-# flipkart-intern#
+# MERN FULL STACK -intern#
 Employee Leave Management System (ELMS)
 
 ## Overview
